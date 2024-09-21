@@ -1,0 +1,11 @@
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Domain\obj\Debug\net8.0\ref\Domain.dll

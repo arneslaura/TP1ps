@@ -1,0 +1,15 @@
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Application\bin\Debug\net8.0\Application.dll
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Application\obj\Debug\net8.0\Application.dll
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\erik_\Desktop\Lau\Facultad\Proyecto-Software\TP01\APIproject\Application\obj\Debug\net8.0\ref\Application.dll
